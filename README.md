@@ -4,7 +4,7 @@
 This project aims to develop a machine learning-based sentiment analysis system tailored for the Amazon Reviews 2023 dataset. The dataset, collected by McAuley Lab in 2023, includes customer reviews across various products, capturing diverse opinions and sentiments. Specifically, this project focuses on the All_Beauty category, which contains 633 thousand user reviews of beauty products in JSON format.
 
 ## Dataset
-The dataset used for this project is the Amazon Reviews 2023 dataset (Hou, et al., 2024). It was collected to pretrain BLAIR (Bridging Language and Items for Retrieval and Recommendation) for sentence embedding models specifically for recommendation scenarios. The dataset is essential for understanding customer behavior and enabling businesses to refine their strategies and improve digital products.
+The dataset used for this project is the Amazon Reviews 2023 dataset (Hou, et al., 2024). It was collected to pretrain BLAIR (Bridging Language and Items for Retrieval and Recommendation) for sentence embedding models specifically for recommendation scenarios. The dataset is essential for understanding customer behavior and enabling businesses to refine their strategies and improve digital products. You can access the dataset from [here](https://amazon-reviews-2023.github.io/).
 
 ## Proposed Solution
 The proposed solution involves developing a machine learning-based sentiment analysis system. The following algorithms are considered to classify sentiments while addressing the challenges of processing large-scale textual data effectively:
